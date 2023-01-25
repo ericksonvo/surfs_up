@@ -16,3 +16,7 @@ This analysis looks at temperture trends in Oahu, Hawaii to see if the Surf and 
   ![Temperature](https://user-images.githubusercontent.com/117749494/214610903-ad11100e-df44-4428-b3b9-0c6dbb506629.png)
 
 This image aboves compares both together. It shows that June is warmer than December but not by much. We can also see the frequency at which the temperatures were colder. Which is very low, so sustaining the Surf and Ice Cream Shop in Oahu year is possible. However, sales might be slightly lower on days that have lower temperature. 
+
+## Summary
+
+Overall, the analysis does show that sustaining a surf shop in Oahu, Hawaii year round is possible. We see that comparing the means of both months the difference was 3 degrees which is not a huge margin to say that the shop would not be sustainable. Also, when we look at the frequency of the minimum temperature we can see that they are very low compared to the warmer temperture. Sales might be a little lower on those days, however, it can possibley be made up on the warmer days. 
